@@ -25,11 +25,11 @@ solid background in machine learning (theory and training), there is a lot of fu
 Build Intelligent Systems, O'Reilly Media; 1 edition (April 9, 2017).
 
 This is a very well-written book. When I first read through this book, it was just released and was the 1st edition. 
-It consists of two big parts: shallow models,neural networks. It is of wide spectrum in terms of coverage. It can help 
+It consists of two big parts: shallow models, neural networks. It is of wide spectrum in terms of coverage. It can help 
 you get started in engineer side and also can help you gain a solid understanding of the theoretical side: the author 
 includes all the main references explicitly. Geron is a machine learning expert with both genuine engineer experience
-and very good machematical understanding. Personally, I had read through this book a number of times, and each time I could
-gain something new. Now this book has its second edition incoporating Keras.
+and very good machematical understanding, which is my feeling after reading through the book. Personally, I had read through 
+this book a number of times, and each time I could gain something new. Now this book has its second edition incoporating Keras.
 
 5. Francois Chollet, Deep Learning with Python Manning Publications, Dec 2017, 1st Edition
 
