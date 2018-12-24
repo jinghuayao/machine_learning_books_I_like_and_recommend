@@ -1,11 +1,16 @@
 1. Hang Li, Statistical Machine Learning, Tsinghua University Press, 2012.
 
-This book cover the typical shallow models (does not cover neural networks) and is written in a very clear fashin. 
-In the first chapter, the author overviews the field of machine learning, while in the last
-chapter summarizes the covered machine learning algorithms. In between, the author presents one
-main algorithm in each chapter by first laying down the theory and then giving an concise example.
-I feel this is a carefully written book after reading through it several times.
+This book cover the typical shallow models (mainly supervised models; does not cover neural networks) 
+and is written in a very clear fashin. In the first chapter, the author overviews the field of machine 
+learning, while in the last chapter summarizes the covered machine learning algorithms. In between, the 
+author presents one main algorithm in each chapter by first laying down the theory and then giving an 
+concise example. I feel this is a carefully written book after reading through it several times.
 
 2. Zhihua Zhou, Machine Learning, Tsinghua University Press, 2016.
 
-Dr. Zhou is an active research in the field of machine learning. 
+This book contains 16 chapters with useful appendices. It covers both supervised and unsupervised algorithms,
+and also touches reinforcement learning. In terms of coverage, this book is wide-spectrum. Due to the wide coverage,
+some topics are not fully expaned. This book is very popular in China. After reading through, you will find that it is
+really nice to be used as an introductory book on the field. Personally, I like the stories at the end of each chapter.
+It is safe to say that the author made an effort in adding some of his thoughts in writing the book.
+
