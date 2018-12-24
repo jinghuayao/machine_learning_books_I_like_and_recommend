@@ -1,4 +1,4 @@
-### some machine learning books I like and recommend
+### Some machine learning books I like and recommend
 
 There are many very good books for machine learning and artificial intellgence in general. These books have different
 emphases and styles, some may pay more attention on mathematical or statistical side, some on engineering or applied side, 
