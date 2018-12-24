@@ -1,0 +1,6 @@
+1. Hang Li, Statistical Machine Learning, Tsinghua University Press, 2012.
+
+This book cover the typical shallow models and is written in a very clear fashin. 
+In the first chapter, the author overviews the field of machine learning, while in the last
+chapter summarizes the covered machine learning algorithms. In between, the author presents one
+main algorithm in each chapter by first laying down the theory and then giving an concise example.
