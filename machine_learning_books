@@ -37,3 +37,33 @@ This is a very well-written book for gaining both engineer understanding and pra
 a very friendly-to-use API for implementing deep neural networks. The representation is concise, sufficiently detailed, and full
 of ideas and sound personal understanding about deep learning models. I especially like the comments of the authors about the role of
 gates in LSTM cell in reality. This is a book which deserves your reading through a number of times as I confirmed after doing so.
+
+
+Probability and Statistics Foundations.
+
+1. Patrick Billingsley, Probability and Measure, 3rd edition, Wiley, 1995.
+
+This book is a masterpiece, classic. It contains a huge amount of information. When I was a graduate student, I studied this book for
+two semesters with a very rigorous research professor and did a large portion of the excercises at the end of each section. 
+These excercises also contain huge amount of materials.  I feel that the materials in some sections together are sufficient to be used 
+as a real analysis textbook. I reference to this book frequently when using statistics and doing fundamental and applied research. From a mathematical point of view,
+some of the theorems or properties proved in some of the CVPR, ICML, NeurlPS are just special cases or rediscover of some of the results
+in this book. If you do a systematic study of this book, it is guaranteed that your analysis technical power will be greatly enhanced.
+
+2. David Freedman, Statistics, W. W. Norton & Company, 4th Edition, 2007.
+
+This book is now in its 4th edition. The exposition of the book is lucid. It focuses the core ideas of concepts and methods 
+with light mathematical formulas. My feeling is that I can gain a very good statistical feeling of the fundamental concepts and
+methods.
+
+3. Christopher Bishop, Pattern Recognition and Machine Learning, Springer, 1st edition, 2006.
+
+This book is a well known text in the field, and the author is a well known expert in the field. It may be more proper to put it 
+in the machine learning class for my list. However, I used it slightly differently from other books. This book takes a Bayesian 
+point of view and contains abundant information. I like the second chapter very much and use it as a reference for probability distributions. 
+Though I had read through the book and find the book has theoretical depth, wide coverage and is very good for reference, there are two small points 
+which do not aligh to my taste very well: first, from time to time, I feel it is wordy. When I read chapter 1, I felt that 
+I need take a long breath in order to finish some of the whole sentences; second, the author presented the material in a whole sections 
+without using thoerems, properties and remarks. Though explicit structure format is not necessary, putting all the formulas and conclusions 
+together without a clear hierarchy in a section is not a best way for presenting heavy materials.
+
