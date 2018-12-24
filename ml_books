@@ -1,7 +1,11 @@
 1. Hang Li, Statistical Machine Learning, Tsinghua University Press, 2012.
 
-This book cover the typical shallow models and is written in a very clear fashin. 
+This book cover the typical shallow models (does not cover neural networks) and is written in a very clear fashin. 
 In the first chapter, the author overviews the field of machine learning, while in the last
 chapter summarizes the covered machine learning algorithms. In between, the author presents one
 main algorithm in each chapter by first laying down the theory and then giving an concise example.
 I feel this is a carefully written book after reading through it several times.
+
+2. Zhihua Zhou, Machine Learning, Tsinghua University Press, 2016.
+
+Dr. Zhou is an active research in the field of machine learning. 
