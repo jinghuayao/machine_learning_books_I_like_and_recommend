@@ -1,3 +1,11 @@
+There are many very good books for machine learning and artificial intellgence in general. These books have different
+emphases and styles, some may pay more attention on mathematical or statistical side, some on engineering side, some
+on supervised algorithms, some on deep learning, and others on reinforcement learning. As the field is developing fast,
+it is crucial to form your own knowledge system on the subject or related fields. In my experience, it is crucial to
+start any field with very good textbooks and papers. After reading a large number of the books in mathematics, probability,
+physics, and statistical machine learning (with some reading through several times), I feel the following books aligns to 
+my own taste, and that they are good points to start.
+
 1. Hang Li, Statistical Machine Learning, Tsinghua University Press, 2012.
 
 This book cover the typical shallow models (mainly supervised models; does not cover neural networks) 
