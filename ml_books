@@ -14,3 +14,9 @@ some topics are not fully expanded. This book is very popular in China. After re
 really nice to be used as an introductory book in the field of machine learning. Personally, I like the stories at the 
 end of each chapter. It is safe to say that the author made great effort in adding some of his thoughts in writing the book.
 
+3. Tieyan Liu, etal, Distributed Machine Learning: Theories, Algorithms, and Systems, China Machine Press, 2018.
+
+This book presents distributed machine learning framework. It is very useful to the practice of training very large model with
+big data set. It also contains two chapters on optimization algorithms. This book is written in a high level, in particular,
+conveying the main results without proofs. If you are well trained in a techinial field such as mathematics and also have
+solid background in machine learning (theory and training), there is a lot of fun in reading this book.
