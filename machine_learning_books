@@ -18,12 +18,13 @@ end of each chapter. It is safe to say that the author made great effort in addi
 3. Tieyan Liu, etal, Distributed Machine Learning: Theories, Algorithms, and Systems, China Machine Press, 2018.
 
 This book presents distributed machine learning framework. It is very useful to the practice of training very large model with
-big data set. It also contains two chapters on optimization algorithms. This book is written in a high level, in particular,
-conveying the main results without proofs. This is both good and not good in representing materials. It is good if you have solid
-background and use it for a high level review or summary of the topic. It is not good if you use it as the main text because 
-knowing the statements of the main results and theorems are far from understanding them, not mentioning grasping the connections 
-among them. If you are well trained in a techinial field such as mathematics and also have solid background in machine learning 
-(theory and training), there is a lot of fun in reading this book. The authors of the book are experts and practitioners in the topic.
+big data set. It also contains two chapters which putting together a number of optimization algorithms. This book is written 
+in a high level, in particular, conveying the main results without proofs. This is both good and not good in representing materials. 
+It is good if you have solid background and use it for a high level review or summary of the topic. It is not good if you use it 
+as the main text because knowing the statements of the main results and theorems are far from understanding them, 
+not mentioning grasping the connections among them. If you are well trained in a techinial field such as mathematics 
+and also have solid background in machine learning (theory and training), there is a lot of fun in reading this book. 
+The authors of the book are experts and practitioners in the topic.
 
 4. Aurélien Géron, Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to 
 Build Intelligent Systems, O'Reilly Media; 1 edition (April 9, 2017).
