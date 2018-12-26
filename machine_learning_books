@@ -38,7 +38,7 @@ this book a number of times, and each time I could gain something new. Now this 
 
 5. Francois Chollet, Deep Learning with Python Manning Publications, Dec 2017, 1st Edition
 
-This is a very book for gaining both engineer understanding and practice in machine learning, especially in deep learning. 
+This is a/the very book for gaining both engineer understanding and practice in machine learning, especially in deep learning. 
 The author is also the author of Keras, a very friendly-to-use API for implementing deep neural networks. 
 The representation is concise yet sufficiently detailed, and full of ideas and sound personal understanding about deep learning models. 
 I especially like the comments of the author about the role of gates in LSTM cell in reality. This is a book which deserves your 
