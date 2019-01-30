@@ -32,6 +32,11 @@ The representation is concise yet sufficiently detailed, and full of ideas and s
 I especially like the comments of the author about the role of gates in LSTM cell in reality. This is a book which deserves your 
 reading through a number of times as I confirmed after doing so.
 
+6. Andreas C. Müller and Sarah Guido, Introduction to Machine Learning with Python: A Guide for Data Scientists, O'Reilly, 2016.
+
+A good book to start the practice of shallow machine learning models by using learning scikit-Learn API.
+
+
 
 Probability and Statistics Foundations.
 
