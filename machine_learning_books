@@ -82,3 +82,24 @@ the notions encountered and some tables are quoted in an inconsistent way with t
 techinial field and also have solid background in machine learning (theory and training), there is some fun in reading this book. 
 The authors of the book are experts and practitioners in the topic. 
 
+
+PYTHON BOOKS:
+
+1. Bradley N. Miller, David L. Ranum, Problem Solving with Algorithms and Data Structures Using Python, Franklin, Beedle & Associates; 
+2nd edition (August 22, 2011), 438 pages.
+
+This book explains the basic data structures clearly with concrete code examples. It contains very few or almost no typos. It can be used by
+beginners as a textbook and by non-beginners as a reference. If it is the first time for you to interact with Python, this book is ideal
+as the start point.
+
+2. Rance D. Necaise, Data Structures and Algorithms Using Python, 1st edition, Wiley; 1 edition (December 21, 2010), 540 pages.
+
+This book contains a number of typos in the code examples. However, this does not affect that it is a good book for learning python data
+structures due to its clear exposition. In fact, one shall critically think, carefully distinguish, and actively practice the contents of
+a book, in order to achieve genuine understanding. This book is not ideal for beginners, but is very good for non-beginners.
+
+3. Clinton W. Brownley, Foundations for Analytics with Python: From Non-Programmer to Hacker, O'Reilly Media; 1 edition (September 4, 2016)
+
+This book explains Python basics and emphasize how to read and write files (Excel, CSV, etc) using both brute force way and the 
+Pandas library. The code in the book is very well-written with very few typos. From a higher standpoint, it is important to understand
+the hows and whys in reading  and writing files. 
