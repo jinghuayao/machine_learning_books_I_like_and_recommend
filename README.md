@@ -1,5 +1,5 @@
 ### Some machine learning books I like and recommend
-
+(YAO JINGHUA)
 There are many very good books for machine learning and artificial intellgence in general. These books have different
 emphases and styles, some may pay more attention on mathematical or statistical side, some on engineering or applied side, 
 some on supervised algorithms, some on unsupervised algorithms, some on deep learning, and others on reinforcement learning. 
